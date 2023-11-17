@@ -7,6 +7,10 @@ console.log(pi)
 // ESERCIZIO 2B
 /* pi = 3.1416
 console.log(pi) */
+// ESERCIZIO 2C
+let radius = 8
+let circle = radius*2*pi
+console.log(circle)
 
 
 
