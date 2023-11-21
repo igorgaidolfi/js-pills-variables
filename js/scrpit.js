@@ -16,4 +16,13 @@ let name = "Carlo"
 name = "Marco"
 console.log(name)
 
-
+// ESERCIZIO 2
+let comparison
+let nomeA = 'franco'
+let nomeB = 'gino'
+if (nomeA == nomeB){
+    console.log("Le stringhe sono uguali")
+}
+else{
+    console.log("Le stringhe sono diverse")
+}
