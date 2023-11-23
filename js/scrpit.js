@@ -40,3 +40,10 @@ console.log(comparison)
 for(let i=1; i<=42;i++){
     console.log(i)
 }
+// ESERCIZIO 1/B
+for(let i=42; i>=1;i--){
+    console.log(i)
+}
+// ESERCIZIO 1/A 
+const numbers = [1,45,75,87,46,46,346,335]
+console.log(numbers)
