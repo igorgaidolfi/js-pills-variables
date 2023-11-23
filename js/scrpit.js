@@ -47,3 +47,7 @@ for(let i=42; i>=1;i--){
 // ESERCIZIO 1/A 
 const numbers = [1,45,75,87,46,46,346,335]
 console.log(numbers)
+
+// ESERCIZIO 1/B
+const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya']
+console.log(fruits)
