@@ -21,8 +21,22 @@ let comparison
 let nomeA = 'franco'
 let nomeB = 'gino'
 if (nomeA == nomeB){
-    console.log("Le stringhe sono uguali")
+    comparison = "Le stringhe sono uguali"
 }
 else{
-    console.log("Le stringhe sono diverse")
+    comparison = "Le stringhe sono diverse"
+}
+console.log(comparison)
+// ESERCIZIO 3
+let numero = 3
+if(numero == '3'){
+    comparison = true
+}
+else{
+    comparison = false
+}
+console.log(comparison)
+// ESERCIZIO 1/A 
+for(let i=1; i<=42;i++){
+    console.log(i)
 }
