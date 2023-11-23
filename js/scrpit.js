@@ -51,3 +51,5 @@ console.log(numbers)
 // ESERCIZIO 1/B
 const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya']
 console.log(fruits)
+// Esercizio 1/C
+console.log(fruits.length)
