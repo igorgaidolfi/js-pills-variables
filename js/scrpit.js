@@ -161,9 +161,9 @@
 //     console.log(cont++)
 // },1000)
 // Esercizio 1/A
-let persona = {
-    nome: "",
-    cognome: ""
-}
+// let persona = {
+//     nome: "",
+//     cognome: ""
+// }
 // Esercizio 1/B
-persona.nome
+// persona.nome
