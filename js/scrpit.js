@@ -115,16 +115,55 @@
 // }
 // console.log(pizza)
 // FIBONACCI WHILE 
-let num = prompt('Inserisci quanti numeri vuoi visualizzare?')
+// let num = prompt('Inserisci quanti numeri vuoi visualizzare?')
 
-let a=0, b=1
-let c 
+// let a=0, b=1
+// let c 
 
-let i=0
-while(i<num){
-    c = a+b
-    a=b
-    b=c
-    console.log(c)
-    i++
+// let i=0
+// while(i<num){
+//     c = a+b
+//     a=b
+//     b=c
+//     console.log(c)
+//     i++
+// }
+// **Esercizio 1/A**
+// function hello(){
+//     alert('Ciao Mondo')
+// }
+// **Esercizio 1/B**
+// function hello(){
+//     return 'Ciao Mondo'
+// }
+
+// hello()
+// **Esercizio 2/A**
+// function sum(a,b){
+//     return a+b
+// }
+// **Esercizio 2/A**
+// let result = sum(45,6)
+// console.log(result)
+// **Esercizio 1/A**
+// function getOneStringFromTwo(a,b){
+//     return a + " " + b
+// }
+// Esercizio 1/B
+// console.log(getOneStringFromTwo('action', 'man'))
+// Esercizio 1/A
+// setTimeout(function(){
+//     alert('Ciao a tutti')
+// }, 3000)
+// Esercizio 2/A
+// let cont=0
+// setInterval(function(){
+//     console.log(cont++)
+// },1000)
+// Esercizio 1/A
+let persona = {
+    nome: "",
+    cognome: ""
 }
+// Esercizio 1/B
+persona.nome
